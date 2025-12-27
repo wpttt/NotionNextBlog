@@ -1,11 +1,10 @@
-<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0)">
-<rect width="200" height="200" fill="#111111"/>
-<path d="M200.563 83.7392H169V144.594H168.092L126.765 83.7392H99.9706V200H131.534V138.918H132.215L174.223 200H200.563V83.7392Z" fill="white"/>
-</g>
-<defs>
-<clipPath id="clip0">
-<rect width="200" height="200" fill="white"/>
-</clipPath>
-</defs>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="_图层_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256.7 256.7" enable-background="new 0 0 256.7 256.7" xml:space="preserve">
+<circle fill="#DCDDDD" stroke="#EFEFEF" stroke-width="40" stroke-miterlimit="10" cx="128.4" cy="128.4" r="97.1"/>
+<path fill="#231815" d="M213.8,101.1L213.8,101.1c0-28.6-23.4-51.9-51.9-51.9H75.7c-11.8,7.9-21.8,18.3-29,30.5v34.6h51.9v102h56.1
+	V153h7.2C190.4,153,213.8,129.7,213.8,101.1L213.8,101.1z M175.6,101.1c0,7.3-5.9,13.2-13.2,13.2h-7.7V87.9h7.7
+	C169.7,87.9,175.6,93.8,175.6,101.1L175.6,101.1z"/>
+<rect y="0" fill="none" width="256.7" height="256.7"/>
 </svg>
